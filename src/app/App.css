@@ -1,0 +1,10 @@
+.Container{
+  width: 100lvw;
+  height: 100lvh;
+}
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+
+}
