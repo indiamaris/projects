@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@fontsource/henny-penny": "^5.2.6",
+    "@fontsource/lalezar": "^5.2.6",
+    "@fontsource/red-hat-display": "^5.2.6",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
